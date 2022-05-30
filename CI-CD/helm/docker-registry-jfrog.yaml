@@ -1,0 +1,4 @@
+imageCredentials:
+  registry: artifactory.devops.telekom.de
+  username:
+  password:
